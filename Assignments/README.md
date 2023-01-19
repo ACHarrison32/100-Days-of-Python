@@ -2,7 +2,7 @@
 
 |   #   | Folder Link | Assignment Description  | Completed |
 | :---: | ----------- | ----------------------- | --------- |
-|   1   |[Day 1](./Day 1)|Day 1 Python          |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/index.png" width="10">|
+|   1   |[Day 1](./Day_1)|Day 1 Python          |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/index.png" width="10">|
 |   2   |[Day 2](./Day 2)|Day 2 Python          |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/index.png" width="10">|
 |   3   |[Day 3](./Day 3)|Day 3 Python          |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/images.png" width="10">|
 |   4   |[Day 4](./Day 4)|Day 4 Python          |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/images.png" width="10">|
