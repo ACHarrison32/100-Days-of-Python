@@ -11,4 +11,4 @@
 |   7   |[Day 7](./Day_7)|Day 7 Nested If       |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/index.png" width="10">|
 |   8   |[Day 8](./Day_8)|Day 8 IF ELSE Story   |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/index.png" width="10">|
 |   9   |[Day 9](./Day_9)|Day 9 Ints, Floats    |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/index.png" width="10">|
-|   10  |[Day 10](./Day_10)|Day 10 Python       |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/images.png" width="10">|
+|   10  |[Day 10](./Day_10)|Day 10 Math         |<img src="https://github.com/ACHarrison32/4883-PT-Harrison/blob/main/index.png" width="10">|
